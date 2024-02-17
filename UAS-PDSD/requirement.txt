@@ -1,6 +1,6 @@
 streamlit
 streamlit_option_menu
 pandas
-plotly
+plotly.express
 pickle
 pillow
