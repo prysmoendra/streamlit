@@ -4,4 +4,4 @@ matplotlib
 streamlit
 plotly
 pickle
-Image
+Pillow
