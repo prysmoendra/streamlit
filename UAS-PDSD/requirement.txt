@@ -1,6 +1,6 @@
-streamlit
-streamlit_option_menu
+streamlit 
 pandas
-plotly.express
 pickle
+plotly.express
 PIL
+streamlit_option_menu
