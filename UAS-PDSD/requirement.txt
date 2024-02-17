@@ -1,5 +1,6 @@
 streamlit
 streamlit-option-menu
+os-sys
 numpy
 pandas
 matplotlib
