@@ -3,6 +3,6 @@ streamlit_option_menu
 numpy
 pandas
 matplotlib
-plotly==5.18.0
+plotly
 pickle
 pillow
