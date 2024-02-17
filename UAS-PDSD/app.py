@@ -16,7 +16,7 @@ px.defaults.color_continuous_scale = 'reds'
 # st.sidebar.image(img)
 
 # buka file pickle
-with open('/data-input/used_data.pickle', 'rb') as f:
+with open('used_data.pickle', 'rb') as f:
     data = pickle.load(f)
 
 # SIDEBAR MENU
