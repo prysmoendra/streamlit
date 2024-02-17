@@ -1,9 +1,10 @@
 # import library
+import streamlit as st 
+from streamlit_option_menu import option_menu
 import pandas as pd
 import pickle
 from PIL import Image
 import plotly.express as px
-import streamlit as st from streamlit_option_menu import option_menu
 
 
 # load template
