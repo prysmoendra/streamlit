@@ -1,6 +1,5 @@
 streamlit 
 pandas
-pickle
 plotly.express
 PIL
 streamlit_option_menu
