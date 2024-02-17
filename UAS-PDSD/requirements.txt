@@ -1,6 +1,6 @@
 streamlit 
 pandas
 pickle
-plotly.express
+plotly
 PIL
 streamlit_option_menu
