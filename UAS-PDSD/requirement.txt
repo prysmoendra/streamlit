@@ -1,9 +1,8 @@
-streamlit
-streamlit_option_menu
-os-sys
 numpy
 pandas
 matplotlib
 plotly
 pickle
 Pillow
+streamlit
+streamlit_option_menu
