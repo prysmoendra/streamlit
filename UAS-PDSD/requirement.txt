@@ -4,4 +4,5 @@ matplotlib
 plotly
 pickle
 pillow
-streamlit, streamlit_option_menu
+streamlit
+streamlit_option_menu
