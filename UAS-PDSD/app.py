@@ -4,7 +4,7 @@ import pandas as pd
 import pickle
 # import plotly.express as px
 from PIL import Image
-from streamlit_option_menu import option_menu
+# from streamlit_option_menu import option_menu
 
 
 # load template
