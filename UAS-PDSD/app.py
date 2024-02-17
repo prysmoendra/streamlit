@@ -3,6 +3,8 @@ import pandas as pd
 import pickle
 from PIL import Image
 import streamlit as st
+import sys
+sys.path.insert(1, "/mount/src/streamlit/UAS-PDSD/app.py/streamlit_option_menu")
 from streamlit_option_menu import option_menu
 import plotly.express as px
 
