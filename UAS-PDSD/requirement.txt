@@ -2,7 +2,7 @@ numpy
 pandas
 matplotlib
 streamlit
+streamlit-option-menu
 plotly
 pickle
 Pillow
-streamlit-option-menu
