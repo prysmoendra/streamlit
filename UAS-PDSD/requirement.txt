@@ -1,3 +1,7 @@
-pandas==2.2.0
-streamlit==1.30.0
-plotly==5.19.0
+numpy
+pandas
+matplotlib
+streamlit
+plotly
+pickle
+Image
