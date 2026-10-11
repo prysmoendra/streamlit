@@ -12,11 +12,11 @@ px.defaults.template = 'plotly'
 px.defaults.color_continuous_scale = 'reds'
 
 # load image icon
-# img = Image.open('../assets/dakota-dakode.jpeg')
-# st.sidebar.image(img)
+img = Image.open('../assets/dakota-dakode.jpeg')
+st.sidebar.image(img)
 
 # buka file pickle
-with open('UAS-PDSD/used_data.pickle', 'rb') as f:
+with open('../data-input/used_data.pickle', 'rb') as f:
     data = pickle.load(f)
 
 # SIDEBAR MENU
